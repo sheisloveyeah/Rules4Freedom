@@ -1,3 +1,9 @@
-# Perplexity AI:contentReference[oaicite:4]{index=4}
+# Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,perplexity
+
+# Anthropic
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,skilljar.com
+DOMAIN-SUFFIX,anthropic.com
